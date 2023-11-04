@@ -1,0 +1,25 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2023-11-04T19:01:41+01:00",
+  "id": "SockPuppet",
+  "duration": 30,
+  "title": "Sock Puppet",
+  "summary": "Sock Puppet",
+  "source": "SockPuppet.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "sockpuppet",
+    "rrss",
+    "falsaidentidad"
+  ],
+  "tags": [
+    "web"
+  ],
+  "url": "SockPuppet"
+}
